@@ -5,4 +5,4 @@
 
 > You can check my blog: https://erenn-uygun.medium.com/
 
-![ErenUygun's GitHub stats](https://github-readme-stats.vercel.app/api?username=erennuygun&show_icons=true&theme=radical)
+<!-- ![ErenUygun's GitHub stats](https://github-readme-stats.vercel.app/api?username=erennuygun&show_icons=true&theme=radical)
