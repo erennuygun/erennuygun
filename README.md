@@ -1,4 +1,4 @@
-### Hey!
+### Hey! 👋🏼
 
 - 🌏 Digital Nomad
 - 🔭 I am currently working **@Turkcell** as Offensive Security Engineer.
